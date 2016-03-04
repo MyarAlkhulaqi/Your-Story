@@ -1,0 +1,26 @@
+body{
+  background-image: url("http://41.media.tumblr.com/96988f539e3e17bafbec996b9de6e9b0/tumblr_nyh28din4D1sztyb3o1_1280.png");
+background-size: 300px;
+}
+
+h1 {
+  color: tan;
+  text-align: center;
+  background-color: black;
+  font-style: oblique;
+}
+
+a:link, a:visited {
+    background-color: #cc9900;
+    color: white;
+    padding: 14px 25px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: gold;
+}
