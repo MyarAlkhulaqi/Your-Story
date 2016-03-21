@@ -13,8 +13,3 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
 }
-
-
-a:hover, a:active {
-    background-color: pink;
-}

@@ -1,0 +1,28 @@
+body{ background-image: url("http://s6.favim.com/mini/150320/emoji-heart-Favim.com-2578866.jpg");}
+
+h1 {
+  color: grey;
+  background-color: pink;
+}
+
+h2 {
+  background-color: pink;
+  color: grey;
+  padding: 14px 25px;
+  display: inline-block;
+}
+
+a:link, a:visited {
+    background-color: pink;
+    color: grey;
+    padding: 14px 25px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: pink;
+}

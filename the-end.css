@@ -10,13 +10,6 @@ h1 {
   font-style: oblique;
 }
 
-h2 {
-  background-color: black;
-  color: tan;
-  padding: 14px 25px;
-  display: inline-block;
-}
-
 a:link, a:visited {
     background-color: #cc9900;
     color: white;
